@@ -26,6 +26,6 @@ body {
 	color: #FFFFFF;
 }
 
-a:link{
-	color: #000000;
+.profile-button:visited{
+	color: #FFFFFF;
 }
