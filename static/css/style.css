@@ -6,6 +6,10 @@ body {
     min-height: 100vh;
 }
 
+.vh-75{
+	min-height: 75vh;
+}
+
 .portrait-image{
 	height: 75vw;
 	width: 75vw;
