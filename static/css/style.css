@@ -2,7 +2,6 @@ body {
 	scroll-behavior: smooth;
 }
 
-
 .vh-100 {
     min-height: 100vh;
 }
@@ -29,4 +28,21 @@ body {
 
 .profile-button:visited{
 	color: #FFFFFF;
+}
+
+.text-muted{
+	color: #A9A9A9		 !important;
+}
+
+.project-preview{
+	position: relative;
+}
+
+.project-preview-img{
+	width: 100%;
+	border-radius: 3px;
+}
+
+.card-btn{
+	width: 8em;
 }
