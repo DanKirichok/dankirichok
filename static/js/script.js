@@ -1,8 +1,3 @@
-// Necessary for tooltips to work
-$(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip(); 
-});
-
 $(function() {
   $('a[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
