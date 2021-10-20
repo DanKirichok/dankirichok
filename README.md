@@ -1,2 +1,2 @@
-# dankirichok.github.io
-Personal website for my portfolio
+# dankirichok.com
+Welcome to my personal website!
